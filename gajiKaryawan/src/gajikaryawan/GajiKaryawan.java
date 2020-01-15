@@ -14,7 +14,7 @@ public class GajiKaryawan {
     byte gol,hari;
     int potongan,gapok,transport,total,gaji;
    
-    System.out.println ("    INPUT GAJI KARYAWAN    ");
+    System.out.println ("    INPUT GAJI KARYAWAN TEST   ");
     System.out.println ("==============================");
    
     System.out.print ("Masukkan Nama : ");
